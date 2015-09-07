@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Anderlecht</string>
+
+    <string name="language_nl">Nederlands</string>
+    <string name="language_en">Engels</string>
+    <string name="slogan">Wij zijn anderlecht</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
